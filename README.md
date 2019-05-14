@@ -1,4 +1,4 @@
-# MPMBoeufBourguignon
+# BoeufBourguignon
 
 # 1
 Tailler le bœuf en cubes de 3 à 4 cm de côte. 
